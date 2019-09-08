@@ -3,17 +3,17 @@
 This project is used to convert an expression from a prefix to a suffix. Then convert the expression to a truth table
 
 
-
+## How It Work?
 ```
 Example: 
 
 Input: a & b
 Convert to RPN: a b &
 Truth Table:  
-F	F	F
-F	T	F
-T	F	F
-T	T	T
+FFF
+FTF
+TFF
+TTT
 
 ```
 
