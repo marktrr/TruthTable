@@ -10,10 +10,11 @@ Example:
 Input: a & b
 Convert to RPN: a b &
 Truth Table:  
-FFF
-FTF
-TFF
-TTT
+a b a&b
+F F F
+F T F
+T F F
+T T T
 
 ```
 
