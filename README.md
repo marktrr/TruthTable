@@ -18,6 +18,7 @@ Truth Table:  A   B   C   (B & C)   ~(B & C)  A | ~( B & C )
               1   0   1      0          1           1
               1   1   0      0          1           1
               1   1   1      1          0           1
+Note: 1 considered as TRUE, 0 as FALSE
 ```
 
 ## Running the tests
