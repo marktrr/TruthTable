@@ -1,6 +1,6 @@
 # Truth Table
 
-This project is used to convert an expression from a prefix to a suffix. Then convert the expression to a truth table
+This project is used to convert an expression from a prefix to a suffix. Then convert the expression to a truth table.
 
 
 ## How It Work?
