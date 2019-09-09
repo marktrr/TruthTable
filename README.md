@@ -28,7 +28,7 @@ Note: 1 considered as TRUE, 0 as FALSE
 
 The application will read the "input.txt" file and export the result into "post-fix.txt" and "truthtable-result.txt" file.
 
-## Language
+## Programming Language
 Java
 
 ## Authors
